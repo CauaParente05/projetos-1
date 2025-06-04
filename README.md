@@ -37,16 +37,6 @@ Para desenvolver este projeto foram usadas as seguintes bibliotecas:
 
 5. 1 multiplexador TCA9548A I2C
 
-1. 1 tela LCD I2C 16x2
-
-2. 3 sensores de pressão I2C BMP 280 HW-611
-
-3. 6 Leds RGBs
-
-4. 1 sensor ultrassônico
-
-5. 1 multiplexador TCA9548A I2C
-
 <details>
 
 <details>
