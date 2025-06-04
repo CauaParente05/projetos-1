@@ -25,7 +25,7 @@ Para desenvolver este projeto foram usadas as seguintes bibliotecas:
 #include <Adafruit_BMP280.h>
 ```
 
-### ♟️ Peças usadas no prototipo
+### ♟️ Peças usadas no prototipo:
 
 1. 1 tela LCD I2C 16x2
 
@@ -51,7 +51,7 @@ Para desenvolver este projeto foram usadas as seguintes bibliotecas:
 
 <details>
 
-<summary>📦 Estrutura do Projeto </summary>
+<summary>📦 Estrutura do Projeto: </summary>
 
 - Acabamento todo feito de MDF pintado para parecer um céu estrelado
 
