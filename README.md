@@ -10,10 +10,8 @@ Com isso em mente criamos um jogo oferecendo funcionalidades direcionadas a elas
 
 ## 🛠️ Tecnologias Utilizadas
 
-<div>
-<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img height= "30" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"
-</div>
+![Arduíno](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=cplusplus&logoColor=white&logoSize=auto)
 
 ### 📚 Bibliotecas Utilizadas:
 
