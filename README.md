@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o Projeto
 
-O Caça as Estrelas é um projeto desenvolvido para a disciplina de Projetos 1 da CESAR School. Este projeto tem com **intenção desenvolver um jogo figital com o objetivo de incluir pessoas com deficência**, o nosso projeto visa incluir pessoas com deficência motora. 
+O Caça as Estrelas é um projeto desenvolvido para a disciplina de Projetos 1 da CESAR School. Este projeto tem com **intenção desenvolver um jogo figital com o objetivo de incluir pessoas com deficiência**, o nosso projeto visa incluir pessoas com deficência motora. 
 
 De acordo com o Relatório Mundial sobre Deficiência, cerca de **15% da população** vive com algum tipo de deficiência, **sendo 2%-4% portador de algum tipo de deficiência motora**. **1 a cada 10 pessoas** tem algum tipo de deficiência motora seja ela: monoplegia, hemiplegia, paraplegia, tetraplegia ou amputação. 
 
